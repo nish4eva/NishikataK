@@ -14,12 +14,24 @@
   <img align="left" alt="Youtube" width="22px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
 </a><p> Subscribe to my awesome channel </p>
 <img align="right" alt="img" src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" width="40%" height="auto" />
+
+<img align="right" alt="img" src="https://media.tenor.co/videos/724bf9766dfbe688007dab4d34f9ca23/mp4" width="40%" height="auto" />
  
+<img align="right" alt="img" src="https://media.tenor.co/videos/0101e8bcb7e9e20095931c7ceda63a31/mp4" width="40%" height="auto" />
+
+
 #### 🌱 Things I am currently working on: 
 - Learning japanese
 - My Youtube channel, where I upload lofi songs
 - Whispur(The biggest project of my life)
 - Surpass Dank Memer
+
+#### 🖥️ My Work Requirements:
+- Coffee
+- My computer
+- My playlist
+- Laptop and other stuff
+- My profit
  
  
 #### :muscle: Things I am challenging myself with:
