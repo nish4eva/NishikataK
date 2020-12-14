@@ -15,9 +15,7 @@
 </a><p> Subscribe to my awesome channel </p>
 <img align="right" alt="img" src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" width="55" height="auto" />
 
-<img align="right" alt="img" src="https://media.tenor.co/videos/724bf9766dfbe688007dab4d34f9ca23/mp4" width="40" height="auto" />
- 
-<img align="right" alt="img" src="https://media.tenor.co/videos/0101e8bcb7e9e20095931c7ceda63a31/mp4" width="20" height="auto" />
+
 
 
 #### 🌱 Things I am currently working on: 
