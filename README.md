@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/channel/UCv2FbswVUScbkYp8XRC2m_w">
   <img align="left" alt="Youtube" width="22px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
 </a><p> Subscribe to my awesome channel </p>
-<img align="right" alt="img" src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" width="55" height="auto" />
+<img align="right" alt="img" src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" width="50%" height="auto" />
 
 
 
