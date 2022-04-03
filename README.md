@@ -3,6 +3,7 @@
 <br/>
 
 <iframe src="https://giphy.com/embed/5pUIK6bduG7WklApgB" width="30" height="32" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/skate-roller-joji-5pUIK6bduG7WklApgB">via GIPHY</a></p>
+<img src="https://github.com/NishikataK/NishikataK/blob/main/giphy%20(1).gif">
 
 <a href="https://twitter.com/caffained">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
@@ -13,7 +14,7 @@
 </a><p> music </p>
 
 
-<iframe src="https://giphy.com/embed/3kVDvC83BEWPe" width="480" height="453" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-doctor-who-request-3kVDvC83BEWPe">via GIPHY</a></p>
+<img src="https://github.com/NishikataK/NishikataK/blob/main/giphy.gif">
 
 
 #### 🌱 Things I am currently working on: 
