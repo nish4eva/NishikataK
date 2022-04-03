@@ -1,19 +1,15 @@
 ### Hi there 👋
-<h2> Hi, I'm NishiKataK <img src="https://media.giphy.com/media/jt7bAtEijhurm/giphy.gif" width="50"></h2>
+<h2> Hi, I'm NishiKataK <img src="https://tenor.com/view/quby-chan-gif-22672316" width="50"></h2>
 <br/>
 
-<a href="https://twitter.com/nishikata999">
+<a href="https://twitter.com/caffained">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a><p> Follow me on Twitter </p>
 
-<a href="https://discord.gg/c57vkjK">
-  <img align="left" alt="Discord" width="22px" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-icon.svg" />
-</a><p> Join my cult now! </p>
-
-<a href="https://www.youtube.com/channel/UCv2FbswVUScbkYp8XRC2m_w">
+<a href="https://www.youtube.com/channel/UCBael5qtJCT3qSBGhTX_eyQ">
   <img align="left" alt="Youtube" width="22px" src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" />
-</a><p> Subscribe to my awesome channel </p>
-<img align="right" alt="img" src="https://media.giphy.com/media/4QxQgWZHbeYwM/giphy.gif" width="50%" height="auto" />
+</a><p> music </p>
+<img align="right" alt="img" src="https://tenor.com/view/bongo-cat-codes-gif-22068584" width="50%" height="auto" />
 
 
 
