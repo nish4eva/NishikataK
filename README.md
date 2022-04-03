@@ -2,8 +2,7 @@
 <h2> Hi, I'm NishiKataK</h2>
 <br/>
 
-<iframe src="https://giphy.com/embed/5pUIK6bduG7WklApgB" width="30" height="32" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/skate-roller-joji-5pUIK6bduG7WklApgB">via GIPHY</a></p>
-<img src="https://github.com/NishikataK/NishikataK/blob/main/giphy%20(1).gif">
+<div class="tenor-gif-embed" data-postid="18579755" data-share-method="host" data-aspect-ratio="1.50235" data-width="100%"><a href="https://tenor.com/view/gntv-gothamnerdtv-gothamnerd-pink-guy-pink-guy-gun-gif-18579755">Gntv Gothamnerdtv GIF</a>from <a href="https://tenor.com/search/gntv-gifs">Gntv GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <a href="https://twitter.com/caffained">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
