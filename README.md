@@ -2,9 +2,9 @@
 # Hey there! :wave::smiley:
 _________________________________________________________________________________________________________________________________________________________________________
 <!--Introduction -->
-hi i am nishikata, i develop projects for the use of my personal gains 😎
+tis nish, i dont talk
 <br>
-<img src="https://github.com/NishikataK/NishikataK/blob/main/ok-approved.gif" width="40"> <em><b>dont talk to me unless we know each other irl</b><b>kys</b></em>
+<em><b>dont talk to me unless we know each other irl</b><b>kys</b></em>
 _________________________________________________________________________________________________________________________________________________________________________
 
 ### 💼  Things that I'm currently working on: 
